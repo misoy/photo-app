@@ -13,3 +13,5 @@ Turbolinks.start()
 ActiveStorage.start()
 
 import "bootstrap"
+
+require("credit_card_form")
