@@ -1,6 +1,6 @@
 # Photo App
 
-This is a Photo App and developed on Ruby 3.0.0. 
+This is a Photo App and developed on Rails 6.1.3. 
 
 Visit Photo App (https://ror-training-photo-app.herokuapp.com)
 
